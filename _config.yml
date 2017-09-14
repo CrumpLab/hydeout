@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            CCP
+tagline:          'Cognitive & Comparative Psychology'
+description:      'Cognitive & Comparative Psychology at CUNY'
 url:              'https://crumplab.github.io'
 baseurl:          '/hydeout' # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,8 +14,8 @@ baseurl:          '/hydeout' # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Matthew Crump'
+  url:            https://crumplab.github.io
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -51,9 +51,9 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:           https://github.com/fongandrew/hydeout
+  repo:           https://github.com/crumplab/hydeout
 
 disqus:
-  shortname:      hydeout
+  shortname:      CCP
 
-google_analytics: UA-100461102-1
+google_analytics: 
