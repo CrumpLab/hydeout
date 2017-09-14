@@ -2,6 +2,7 @@
 layout: page
 title: Program of Study
 sidebar_link: true
+order: 2
 ---
 
 There are two required core courses:
