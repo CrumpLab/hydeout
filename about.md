@@ -2,7 +2,6 @@
 layout: page
 title: About
 sidebar_link: true
-order: 1
 ---
 
 # CCP's Mission
