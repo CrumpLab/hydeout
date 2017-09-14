@@ -6,17 +6,17 @@ title: Learning goals
 A student in Cognitive and Comparative Psychology (CCP) who has successfully achieved a doctorate in Psychology will show competencies in the domains of understanding, contributing to, and communicating scientific knowledge.  In particular, a student will:
 
 1. Demonstrate broad and specialized knowledge in the student's chosen area within Cognitive and Comparative Psychology, including the ability to:
-  a. Read and critically evaluate the research literature
-  b. Describe current and classic theories and findings within a specific sub-field, and explain how theories accommodate available findings
-  c. Design a study to address a major unresolved research problem
+  - Read and critically evaluate the research literature
+  - Describe current and classic theories and findings within a specific sub-field, and explain how theories accommodate available findings
+  - Design a study to address a major unresolved research problem
 2. Demonstrate appropriate quantitative, observational, and computational skills for data  generation (i.e., conducting studies) and data analysis.
 3. Make an original contribution to the field.
 4. Demonstrate abilities to explain theory and data in written and oral forms, including:
-  a. Writing a journal-quality manuscript and submitting it for publication to a peer-reviewed journal
-  b. Delivering a conference presentation
-  c. Giving an undergraduate lecture
-  d. Writing a grant application for external funding
-  e. Completing a doctoral dissertation
+  - Writing a journal-quality manuscript and submitting it for publication to a peer-reviewed journal
+  - Delivering a conference presentation
+  - Giving an undergraduate lecture
+  - Writing a grant application for external funding
+  - Completing a doctoral dissertation
 5. Interact effectively and collegially with others in the field and conform to the fundamentals of ethical research conduct.
 
 
