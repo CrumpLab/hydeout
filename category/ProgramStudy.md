@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 title: Program of Study
 sidebar_link: true
 ---
